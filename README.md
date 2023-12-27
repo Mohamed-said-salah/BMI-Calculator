@@ -33,7 +33,7 @@ A modern UI Flutter app that calculates user Body Mass Index based on user's bod
 
 ## ScreenShots 🖼️
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 
 
