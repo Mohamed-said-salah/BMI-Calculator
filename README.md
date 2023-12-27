@@ -1,16 +1,40 @@
-# bmi_calculator
+# BMI Calculator 🏋️‍♂️
 
-A new Flutter project.
+A modern UI Flutter app that calculates user Body Mass Index based on user's body metrics.
 
-## Getting Started
+## Languages and frameworks 📑
 
-This project is a starting point for a Flutter application.
+ * Flutter
+ * Dart
+ * FontAwesome
 
-A few resources to get you started if this is your first Flutter project:
+## Packages 🔎
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ * font_awesome_flutter
+ * cupertino_icons
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features 🥇
+ * Enter body metrics by different inputs type for best user expirience
+ * Nice ui for simpler BMI info with helath advice
+
+## IDEs 💻
+
+ * VS code
+ * Android Studio
+
+## Try the App 📱
+
+ * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/16DkqSDSyc7PIHIwAkWtEiHuc1XuPxV6y/view?usp=drive_link)
+
+## Setup
+
+ * clone the repository and run the app on any plugged ios or android Emulator or physical device.
+
+## ScreenShots 🖼️
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+
+
+
+This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
