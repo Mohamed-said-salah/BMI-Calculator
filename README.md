@@ -1,4 +1,4 @@
-# BMI Calculator 🏋️‍♂️
+# BMI Calculator 💪
 
 A modern UI Flutter app that calculates user Body Mass Index based on user's body metrics.
 
