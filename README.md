@@ -23,7 +23,7 @@ A modern UI Flutter app that calculates user Body Mass Index based on user's bod
  * VS code
  * Android Studio
 
-## Try the App 📱
+## Get the App 📱
 
  * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/16DkqSDSyc7PIHIwAkWtEiHuc1XuPxV6y/view?usp=drive_link)
 
